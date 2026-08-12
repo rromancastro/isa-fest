@@ -148,6 +148,13 @@ $white: #fffafd;
   line-height: 0.78;
   letter-spacing: 0;
 
+  span:first-child {
+    text-shadow:
+      0 0 0.35rem rgba(255, 255, 255, 0.55),
+      0 0 1.4rem rgba(255, 126, 187, 0.62),
+      0 0 3rem rgba(255, 10, 138, 0.34);
+  }
+
   span:last-child {
     color: transparent;
     -webkit-text-stroke: 1px rgba($white, 0.92);
@@ -536,6 +543,10 @@ $white: #fffafd;
     font-size: clamp(3.4rem, 18vw, 7.5rem);
     font-weight: 500;
     line-height: 0.88;
+    text-shadow:
+      0 0 0.35rem rgba(255, 245, 250, 0.52),
+      0 0 1.25rem rgba(255, 126, 187, 0.5),
+      0 0 2.6rem rgba(217, 91, 148, 0.32);
   }
 
   p {
