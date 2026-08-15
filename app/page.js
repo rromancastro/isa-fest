@@ -183,10 +183,10 @@ export default function Home() {
           <h2>Sumate a la noche</h2>
         </div>
         <nav aria-label="Formularios">
-          <a href="https://docs.google.com/forms/" target="_blank">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScynbQb6z5I68punRAfl_yM2r21LgF4zr0zsqJeM0eHhjBMjQ/viewform" target="_blank">
             Recomendame una cancion
           </a>
-          <a href="https://docs.google.com/forms/" target="_blank">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZAdrK8XVZCNc09e_3Mf56yxXCRIUJIxuoH4aIz-5mhtOGPw/viewform" target="_blank">
             Confirmar asistencia
           </a>
         </nav>

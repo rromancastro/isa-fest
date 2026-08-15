@@ -4,17 +4,17 @@ import "./globals.css";
 const inter = localFont({
   src: "../public/Inter.ttf",
   variable: "--font-inter",
-  display: "swap",
+  display: "block",
 });
 
 const robotoSerif = localFont({
   src: "../public/RobotoSerif.ttf",
   variable: "--font-roboto-serif",
-  display: "swap",
+  display: "block",
 });
 
 export const metadata = {
-  title: "Isa Fest | 15 anos",
+  title: "Isa Fest | 15 años",
   description: "Invitacion digital para festejar los 15 de Isa.",
 };
 
